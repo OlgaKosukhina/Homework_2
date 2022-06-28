@@ -1,0 +1,15 @@
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15.deps.json
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15.runtimeconfig.json
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15.dll
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15.pdb
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.csproj.AssemblyReference.cache
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.AssemblyInfoInputs.cache
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.AssemblyInfo.cs
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.csproj.CoreCompileInputs.cache
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.dll
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/refint/Zadacha_15.dll
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.pdb
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.genruntimeconfig.cache
+/Users/olgakosuhina/Desktop/homework_2/Zadacha_15/obj/Debug/net6.0/ref/Zadacha_15.dll
